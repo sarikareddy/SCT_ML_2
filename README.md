@@ -52,6 +52,4 @@ Customer behavior analysis
 
 Business decision-making
 
-⚠ Note:
-This entire project was developed and executed in Google Colab, not in VS Code.
-Google Colab was used for data visualization, clustering experiments, and an easier workflow.
+
